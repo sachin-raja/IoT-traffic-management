@@ -5,5 +5,6 @@ Arduino board’s design use a variety of microprocessors and controllers. It is
 
 We simulated the traffic light controller system for simple two-way intersection and for a two-way intersection with traffic sensors, using the Arduino UNO R3 controller in TinkerCAD. We also wrote the C code that was used to control the traffic flow.
 
-1.	Connect the circuit using breadboard according to the schematic
+1.	Connect the circuit using breadboard according to the schematic 
+ ![](ArduinoController.png)
 2.	Load the below C program for simulating a normal traffic light controller on Arduino UNO using the Arduino IDE. 
